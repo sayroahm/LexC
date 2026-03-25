@@ -5,5 +5,5 @@
 
 ### Contributers:
 |Name|Username|Years|Role|
-|:--------|:--------|:----|:----------|
+|:-------------|:--------------|:------|:-----------|
 |Evan S.|sayroahm|2|Director|
